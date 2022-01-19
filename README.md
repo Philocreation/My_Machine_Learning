@@ -1,1 +1,3 @@
-# Practice_Data_Cleaning
+# My_Machine_Learning
+
+- sciket-learn의 기초 : 
